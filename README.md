@@ -40,18 +40,18 @@ I’m **Amine Benali**, a third-year Computer Science Engineering student passio
 ---
 
 ## 📌 Projects
-### 🗂 [DevOps CI/CD Pipeline](https://github.com/ELTANTAOUI-Y7/Projet-SE-.git)
+### 🗂 [DevOps CI/CD Pipeline](https://github.com/AmineBenali1/DevOps-CICD-Pipeline.git)
 - 🔧 Tech: Jenkins, Docker, Kubernetes, SonarQube, Prometheus, Grafana
 - 📝 Implemented a complete CI/CD pipeline with automated deployment and monitoring for a JEE application
 
-### 🗂 [Library Management Application (JavaFX)](https://github.com/souhaibaks/Library_Project.git)
+### 🗂 [Library Management Application (JavaFX)](https://github.com/AmineBenali1/Library_Project.git)
 - 🔧 Tech: Java, JavaFX, MySQL
 - 📝 Developed a desktop application for managing a library system, including book catalog management, user management, and borrowing/return operations
 
-### 🗂 [Mobile Robot Controller (Automata)](https://github.com/souhaibaks/Automaton_Project-full-.git)
+### 🗂 [Mobile Robot Controller (Automata)](https://github.com/AmineBenali1/Automaton_Project-full-.git)
 - 🔧 Tech: Python, NumPy, Matplotlib
 - 📝 Designed a symbolic controller for a mobile robot with obstacle avoidance simulation
 
-### 🗂 [Quiz Web Platform](https://github.com/ibhiyassine/Quiz-App-Remastered.git)
+### 🗂 [Quiz Web Platform](https://github.com/AmineBenali1/Quiz-App-Remastered.git)
 - 🔧 Tech: Vue.js, Firebase, HTML5, CSS
 - 📝 Web application for quiz creation, progress tracking, and leaderboard management
