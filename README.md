@@ -6,7 +6,7 @@
 I’m **Amine Benali**, a third-year Computer Science Engineering student passionate about **DevOps, Data, and AI**, and building practical, scalable solutions.
 
 📫 Reach me at: **Amine.Benali@um6p.ma**  
-💼 LinkedIn: [linkedin.com/in/amine-benali-8672a5366](https://www.linkedin.com/in/amine-benali-8672a5366/)
+💼 LinkedIn: [linkedin.com/in/amine-benali-8672a5366](https://www.linkedin.com/in/amine-benali-8672a5366/)  
 🌐 Portfolio: *(coming soon)*
 
 ---
@@ -40,25 +40,18 @@ I’m **Amine Benali**, a third-year Computer Science Engineering student passio
 ---
 
 ## 📌 Projects
-### 🗂 DevOps CI/CD Pipeline
+### 🗂 [DevOps CI/CD Pipeline](https://github.com/ELTANTAOUI-Y7/Projet-SE-.git)
 - 🔧 Tech: Jenkins, Docker, Kubernetes, SonarQube, Prometheus, Grafana
-- 📝 Complete CI/CD pipeline with automated deployment and monitoring for a JEE application
+- 📝 Implemented a complete CI/CD pipeline with automated deployment and monitoring for a JEE application
 
-### 🗂 Quiz Web Platform
-- 🔧 Tech: Vue.js, Firebase, HTML5, CSS
-- 📝 Web application for quiz creation, progress tracking, and leaderboard management
-
-### 🗂 Mobile Robot Controller (Automata)
-- 🔧 Tech: Python, NumPy, Matplotlib
-- 📝 Symbolic controller for a mobile robot with obstacle avoidance simulation
-
-### 🗂 Library Management Application (JavaFX)
+### 🗂 [Library Management Application (JavaFX)](https://github.com/souhaibaks/Library_Project.git)
 - 🔧 Tech: Java, JavaFX, MySQL
 - 📝 Developed a desktop application for managing a library system, including book catalog management, user management, and borrowing/return operations
 
----
+### 🗂 [Mobile Robot Controller (Automata)](https://github.com/souhaibaks/Automaton_Project-full-.git)
+- 🔧 Tech: Python, NumPy, Matplotlib
+- 📝 Designed a symbolic controller for a mobile robot with obstacle avoidance simulation
 
-## 📊 GitHub Stats
-| 📈 GitHub Stats | 🧠 Top Languages |
-|------------------|------------------|
-| ![](https://github-readme-stats.vercel.app/api?username=AmineBenali1&show_icons=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBenali1&layout=compact) |
+### 🗂 [Quiz Web Platform](https://github.com/ibhiyassine/Quiz-App-Remastered.git)
+- 🔧 Tech: Vue.js, Firebase, HTML5, CSS
+- 📝 Web application for quiz creation, progress tracking, and leaderboard management
