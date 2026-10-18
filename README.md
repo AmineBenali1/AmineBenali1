@@ -3,7 +3,7 @@
 </p>
 
 ## 👋 Hi there!
-I’m **Amine Benali**, a third-year Computer Science Engineering student passionate about **DevOps, Data, and AI**, and building practical, scalable solutions.
+I’m **Amine Benali**, a fourth-year Computer Science Engineering student passionate about **DevOps, Data, and AI**, and building practical, scalable solutions.
 
 📫 Reach me at: **Amine.Benali@um6p.ma**  
 💼 LinkedIn: [linkedin.com/in/amine-benali-8672a5366](https://www.linkedin.com/in/amine-benali-8672a5366/)  
@@ -12,9 +12,9 @@ I’m **Amine Benali**, a third-year Computer Science Engineering student passio
 ---
 
 ## 🧠 About Me
-- 🎓 3rd-year Computer Science student at **UM6P – College of Computing**
+- 🎓 4th-year Computer Science student at **UM6P – College of Computing**
 - 💡 Interested in **DevOps, Data Engineering, AI, Algorithms & Systems**
-- 🤝 Actively looking for an **internship** and open to collaborations
+- 🤝 Actively looking for an **internship** and open to relocation
 
 ---
 
